@@ -1,0 +1,16 @@
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.exe
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.deps.json
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.runtimeconfig.json
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.runtimeconfig.dev.json
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.dll
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\ref\CSharp-VS-Java.dll
+C:\Projects\CSharp-VS-Java\bin\Debug\net5.0\CSharp-VS-Java.pdb
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.csprojAssemblyReference.cache
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.AssemblyInfoInputs.cache
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.AssemblyInfo.cs
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.dll
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\ref\CSharp-VS-Java.dll
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.pdb
+C:\Projects\CSharp-VS-Java\obj\Debug\net5.0\CSharp-VS-Java.genruntimeconfig.cache
